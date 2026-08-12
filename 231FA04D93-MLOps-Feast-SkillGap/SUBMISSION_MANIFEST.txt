@@ -1,0 +1,12 @@
+Register Number: 231FA04D93
+Section: 9
+Repository: 231FA04D93-MLOps-Feast-SkillGap
+Dataset: 500 rows, 20 columns
+Feast features: 15
+Entity: skill / skill_id
+FeatureView: cse_skillgap_features
+FeatureService: cse_skillgap_prediction_service
+Model: DecisionTreeClassifier(max_depth=4)
+Test accuracy: 99.00%
+Final demo entity: SKILL_025
+Final prediction: 1

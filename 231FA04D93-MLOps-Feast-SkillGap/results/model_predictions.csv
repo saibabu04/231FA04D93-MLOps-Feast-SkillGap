@@ -1,0 +1,501 @@
+skill_id,skill_name,skill_gap,gap_level,employability_score,employability_target,predicted_employability
+SKILL_001,Machine Learning,0.0,Low,73.8,1,1
+SKILL_002,Web Development,13.0,Medium,72.9,1,1
+SKILL_003,Problem Solving,37.0,High,84.55,0,0
+SKILL_004,Machine Learning,0.0,Low,77.75,1,1
+SKILL_005,Deep Learning,0.0,Low,76.55,1,1
+SKILL_006,Java,31.0,High,83.9,0,0
+SKILL_007,Database Management,0.0,Low,66.2,0,0
+SKILL_008,Teamwork,32.0,High,68.85,0,0
+SKILL_009,Problem Solving,0.0,Low,97.2,1,1
+SKILL_010,Git/GitHub,0.0,Low,76.8,1,1
+SKILL_011,Machine Learning,0.0,Low,85.35,1,1
+SKILL_012,Web Development,0.0,Low,88.3,1,1
+SKILL_013,Cloud Computing,41.0,High,72.9,0,0
+SKILL_014,Cloud Computing,2.0,Low,77.5,1,1
+SKILL_015,Teamwork,0.0,Low,75.8,1,1
+SKILL_016,Algorithms,28.0,High,78.8,0,0
+SKILL_017,Algorithms,18.0,Medium,69.45,0,0
+SKILL_018,Deep Learning,0.0,Low,66.35,0,0
+SKILL_019,Problem Solving,27.0,High,75.1,0,0
+SKILL_020,Cloud Computing,0.0,Low,74.25,1,1
+SKILL_021,Git/GitHub,0.0,Low,64.75,0,0
+SKILL_022,Deep Learning,1.0,Low,63.15,0,0
+SKILL_023,Java,14.0,Medium,68.1,0,0
+SKILL_024,Teamwork,0.0,Low,81.9,1,1
+SKILL_025,C++,0.0,Low,88.8,1,1
+SKILL_026,Git/GitHub,31.0,High,77.65,0,0
+SKILL_027,Problem Solving,0.0,Low,77.5,1,1
+SKILL_028,Database Management,0.0,Low,76.05,1,1
+SKILL_029,Teamwork,0.0,Low,87.2,1,1
+SKILL_030,Algorithms,0.0,Low,80.45,1,1
+SKILL_031,Data Analytics,35.0,High,74.5,0,0
+SKILL_032,Python,0.0,Low,78.5,1,1
+SKILL_033,C++,19.0,Medium,63.15,0,0
+SKILL_034,Problem Solving,23.0,Medium,81.3,1,1
+SKILL_035,Data Analytics,0.0,Low,72.1,1,1
+SKILL_036,Web Development,0.0,Low,76.55,1,1
+SKILL_037,Cybersecurity,0.0,Low,75.55,1,1
+SKILL_038,Machine Learning,59.0,High,73.3,0,0
+SKILL_039,C++,0.0,Low,83.25,1,1
+SKILL_040,Generative AI,0.0,Low,71.3,1,1
+SKILL_041,Git/GitHub,26.0,High,75.45,0,0
+SKILL_042,Machine Learning,13.0,Medium,74.9,1,1
+SKILL_043,Teamwork,0.0,Low,81.1,1,1
+SKILL_044,Data Structures,0.0,Low,70.05,1,1
+SKILL_045,Data Analytics,0.0,Low,85.0,1,1
+SKILL_046,Generative AI,0.0,Low,74.95,1,1
+SKILL_047,Algorithms,0.0,Low,90.5,1,1
+SKILL_048,Generative AI,0.0,Low,74.65,1,1
+SKILL_049,DevOps,0.0,Low,73.4,1,1
+SKILL_050,Data Structures,0.0,Low,80.9,1,1
+SKILL_051,System Design,0.0,Low,75.85,1,1
+SKILL_052,System Design,20.0,Medium,84.45,1,1
+SKILL_053,Java,0.0,Low,74.6,1,1
+SKILL_054,Data Structures,5.0,Low,61.55,0,0
+SKILL_055,Deep Learning,7.0,Low,73.8,1,1
+SKILL_056,Web Development,30.0,High,78.75,0,0
+SKILL_057,System Design,0.0,Low,81.0,1,1
+SKILL_058,SQL,51.0,High,69.1,0,0
+SKILL_059,Cybersecurity,0.0,Low,74.1,1,1
+SKILL_060,System Design,2.0,Low,91.45,1,1
+SKILL_061,Data Structures,0.0,Low,74.4,1,1
+SKILL_062,Cybersecurity,0.0,Low,77.9,1,1
+SKILL_063,Git/GitHub,0.0,Low,69.35,0,0
+SKILL_064,Data Analytics,15.0,Medium,64.5,0,0
+SKILL_065,SQL,0.0,Low,66.9,0,0
+SKILL_066,Generative AI,13.0,Medium,79.75,1,1
+SKILL_067,Problem Solving,31.0,High,74.05,0,0
+SKILL_068,Algorithms,23.0,Medium,75.95,1,1
+SKILL_069,Deep Learning,30.0,High,72.35,0,0
+SKILL_070,Git/GitHub,4.0,Low,67.25,0,0
+SKILL_071,Data Structures,0.0,Low,71.2,1,1
+SKILL_072,Algorithms,0.0,Low,91.35,1,1
+SKILL_073,Deep Learning,35.0,High,70.0,0,0
+SKILL_074,Database Management,0.0,Low,87.9,1,1
+SKILL_075,Teamwork,19.0,Medium,84.9,1,1
+SKILL_076,DevOps,0.0,Low,77.6,1,1
+SKILL_077,Python,23.0,Medium,69.7,0,0
+SKILL_078,Generative AI,0.0,Low,80.55,1,1
+SKILL_079,Cybersecurity,0.0,Low,66.55,0,0
+SKILL_080,Cybersecurity,19.0,Medium,72.2,1,1
+SKILL_081,Teamwork,8.0,Low,80.9,1,1
+SKILL_082,Data Structures,10.0,Low,81.9,1,1
+SKILL_083,Communication,31.0,High,80.3,0,0
+SKILL_084,Cybersecurity,0.0,Low,71.95,1,1
+SKILL_085,Machine Learning,0.0,Low,70.3,1,1
+SKILL_086,Generative AI,13.0,Medium,90.7,1,1
+SKILL_087,Data Analytics,2.0,Low,91.6,1,1
+SKILL_088,Python,42.0,High,78.5,0,0
+SKILL_089,Machine Learning,34.0,High,66.1,0,0
+SKILL_090,Python,3.0,Low,91.4,1,1
+SKILL_091,Git/GitHub,29.0,High,79.4,0,0
+SKILL_092,Python,3.0,Low,74.3,1,1
+SKILL_093,Generative AI,36.0,High,66.35,0,0
+SKILL_094,Java,0.0,Low,75.55,1,1
+SKILL_095,Machine Learning,50.0,High,73.35,0,0
+SKILL_096,System Design,26.0,High,80.6,0,0
+SKILL_097,Deep Learning,0.0,Low,76.9,1,1
+SKILL_098,Cybersecurity,55.0,High,74.5,0,0
+SKILL_099,Teamwork,0.0,Low,94.25,1,1
+SKILL_100,Generative AI,0.0,Low,81.55,1,1
+SKILL_101,Cybersecurity,7.0,Low,79.0,1,1
+SKILL_102,Teamwork,0.0,Low,87.05,1,1
+SKILL_103,Web Development,49.0,High,62.7,0,0
+SKILL_104,Machine Learning,6.0,Low,67.85,0,0
+SKILL_105,Teamwork,22.0,Medium,62.85,0,0
+SKILL_106,Web Development,0.0,Low,67.6,0,0
+SKILL_107,C++,0.0,Low,80.25,1,1
+SKILL_108,Teamwork,29.0,High,76.95,0,0
+SKILL_109,Teamwork,47.0,High,74.15,0,0
+SKILL_110,Git/GitHub,0.0,Low,63.15,0,0
+SKILL_111,Algorithms,22.0,Medium,98.7,1,1
+SKILL_112,Data Analytics,6.0,Low,64.8,0,0
+SKILL_113,Teamwork,31.0,High,69.4,0,0
+SKILL_114,C++,0.0,Low,75.8,1,1
+SKILL_115,DevOps,11.0,Low,66.2,0,0
+SKILL_116,Algorithms,28.0,High,94.85,0,0
+SKILL_117,Deep Learning,11.0,Low,96.75,1,1
+SKILL_118,Database Management,33.0,High,81.35,0,0
+SKILL_119,Data Analytics,0.0,Low,77.65,1,1
+SKILL_120,Web Development,0.0,Low,80.5,1,1
+SKILL_121,Data Analytics,0.0,Low,85.7,1,1
+SKILL_122,Teamwork,49.0,High,90.4,0,0
+SKILL_123,SQL,0.0,Low,90.9,1,1
+SKILL_124,Java,0.0,Low,73.45,1,1
+SKILL_125,Generative AI,0.0,Low,83.55,1,1
+SKILL_126,Generative AI,18.0,Medium,76.55,1,1
+SKILL_127,Teamwork,4.0,Low,73.4,1,1
+SKILL_128,Deep Learning,17.0,Medium,81.85,1,1
+SKILL_129,Git/GitHub,15.0,Medium,69.75,0,0
+SKILL_130,Deep Learning,2.0,Low,76.3,1,1
+SKILL_131,Data Analytics,22.0,Medium,71.0,1,1
+SKILL_132,Java,5.0,Low,72.05,1,1
+SKILL_133,Git/GitHub,0.0,Low,80.45,1,1
+SKILL_134,Machine Learning,6.0,Low,78.75,1,1
+SKILL_135,C++,24.0,Medium,74.15,1,1
+SKILL_136,Git/GitHub,14.0,Medium,89.55,1,1
+SKILL_137,System Design,8.0,Low,76.05,1,1
+SKILL_138,Machine Learning,42.0,High,68.05,0,0
+SKILL_139,Teamwork,0.0,Low,77.65,1,1
+SKILL_140,Data Analytics,12.0,Medium,72.15,1,1
+SKILL_141,Problem Solving,0.0,Low,81.85,1,1
+SKILL_142,Git/GitHub,0.0,Low,79.6,1,1
+SKILL_143,Web Development,0.0,Low,73.8,1,1
+SKILL_144,Cybersecurity,0.0,Low,79.85,1,1
+SKILL_145,Web Development,0.0,Low,78.4,1,1
+SKILL_146,Python,0.0,Low,86.7,1,1
+SKILL_147,Cybersecurity,0.0,Low,83.5,1,1
+SKILL_148,Database Management,0.0,Low,71.95,1,1
+SKILL_149,Communication,0.0,Low,72.2,1,1
+SKILL_150,Teamwork,20.0,Medium,67.05,0,0
+SKILL_151,Cloud Computing,7.0,Low,76.15,1,1
+SKILL_152,Database Management,15.0,Medium,73.4,1,1
+SKILL_153,Communication,16.0,Medium,74.2,1,1
+SKILL_154,Cybersecurity,0.0,Low,87.35,1,1
+SKILL_155,Web Development,34.0,High,82.2,0,0
+SKILL_156,Cybersecurity,0.0,Low,80.9,1,1
+SKILL_157,Database Management,2.0,Low,78.4,1,1
+SKILL_158,Problem Solving,0.0,Low,65.1,0,0
+SKILL_159,Teamwork,5.0,Low,85.5,1,1
+SKILL_160,Cloud Computing,0.0,Low,65.1,0,0
+SKILL_161,SQL,0.0,Low,79.4,1,1
+SKILL_162,Communication,0.0,Low,79.9,1,1
+SKILL_163,Git/GitHub,49.0,High,76.35,0,0
+SKILL_164,Machine Learning,41.0,High,79.1,0,0
+SKILL_165,Deep Learning,31.0,High,77.55,0,0
+SKILL_166,Deep Learning,0.0,Low,78.9,1,1
+SKILL_167,Teamwork,4.0,Low,85.25,1,1
+SKILL_168,DevOps,32.0,High,74.3,0,0
+SKILL_169,Data Analytics,19.0,Medium,67.9,0,0
+SKILL_170,Problem Solving,31.0,High,72.4,0,0
+SKILL_171,SQL,42.0,High,69.05,0,0
+SKILL_172,System Design,0.0,Low,71.4,1,1
+SKILL_173,Java,0.0,Low,70.05,1,1
+SKILL_174,SQL,0.0,Low,87.45,1,1
+SKILL_175,Java,18.0,Medium,62.5,0,0
+SKILL_176,System Design,36.0,High,84.05,0,0
+SKILL_177,Data Analytics,0.0,Low,74.15,1,1
+SKILL_178,Git/GitHub,0.0,Low,72.15,1,1
+SKILL_179,SQL,0.0,Low,87.95,1,1
+SKILL_180,Algorithms,11.0,Low,76.2,1,1
+SKILL_181,Teamwork,19.0,Medium,94.45,1,1
+SKILL_182,System Design,0.0,Low,84.95,1,1
+SKILL_183,Cloud Computing,0.0,Low,65.65,0,0
+SKILL_184,Java,56.0,High,79.7,0,0
+SKILL_185,Cybersecurity,49.0,High,72.45,0,0
+SKILL_186,Cybersecurity,0.0,Low,72.9,1,1
+SKILL_187,Communication,21.0,Medium,69.5,0,0
+SKILL_188,System Design,16.0,Medium,70.85,1,1
+SKILL_189,Java,4.0,Low,58.1,0,0
+SKILL_190,Web Development,24.0,Medium,73.4,1,1
+SKILL_191,Database Management,0.0,Low,78.95,1,1
+SKILL_192,Communication,0.0,Low,91.1,1,1
+SKILL_193,C++,0.0,Low,80.95,1,1
+SKILL_194,Web Development,3.0,Low,72.45,1,1
+SKILL_195,Problem Solving,1.0,Low,76.05,1,1
+SKILL_196,Generative AI,10.0,Low,58.55,0,0
+SKILL_197,C++,16.0,Medium,91.2,1,1
+SKILL_198,Machine Learning,30.0,High,60.15,0,0
+SKILL_199,Data Analytics,34.0,High,80.75,0,0
+SKILL_200,SQL,34.0,High,82.1,0,0
+SKILL_201,Database Management,0.0,Low,68.7,0,0
+SKILL_202,DevOps,0.0,Low,90.85,1,1
+SKILL_203,Teamwork,0.0,Low,73.15,1,1
+SKILL_204,Algorithms,18.0,Medium,81.45,1,1
+SKILL_205,Machine Learning,25.0,High,79.45,0,0
+SKILL_206,System Design,0.0,Low,76.45,1,1
+SKILL_207,DevOps,23.0,Medium,60.75,0,0
+SKILL_208,Web Development,0.0,Low,84.5,1,1
+SKILL_209,Cybersecurity,3.0,Low,74.6,1,1
+SKILL_210,DevOps,0.0,Low,94.0,1,1
+SKILL_211,Data Analytics,0.0,Low,76.2,1,1
+SKILL_212,Teamwork,28.0,High,56.9,0,0
+SKILL_213,Cybersecurity,0.0,Low,76.6,1,1
+SKILL_214,Problem Solving,0.0,Low,72.5,1,1
+SKILL_215,Cybersecurity,3.0,Low,77.8,1,1
+SKILL_216,Web Development,40.0,High,66.9,0,0
+SKILL_217,Algorithms,0.0,Low,75.25,1,1
+SKILL_218,C++,0.0,Low,76.25,1,1
+SKILL_219,Web Development,0.0,Low,71.95,1,1
+SKILL_220,Generative AI,12.0,Medium,82.15,1,1
+SKILL_221,Web Development,24.0,Medium,68.65,0,0
+SKILL_222,Communication,0.0,Low,70.45,1,1
+SKILL_223,C++,1.0,Low,89.1,1,1
+SKILL_224,Java,0.0,Low,85.05,1,1
+SKILL_225,Algorithms,4.0,Low,69.4,0,0
+SKILL_226,Machine Learning,0.0,Low,76.45,1,1
+SKILL_227,Generative AI,0.0,Low,70.0,1,1
+SKILL_228,Problem Solving,25.0,High,95.75,0,0
+SKILL_229,C++,0.0,Low,85.75,1,1
+SKILL_230,Web Development,6.0,Low,77.4,1,1
+SKILL_231,Data Analytics,56.0,High,81.35,0,0
+SKILL_232,Deep Learning,20.0,Medium,66.2,0,0
+SKILL_233,Deep Learning,46.0,High,78.95,0,0
+SKILL_234,Teamwork,30.0,High,81.55,0,0
+SKILL_235,Cloud Computing,20.0,Medium,63.6,0,0
+SKILL_236,Machine Learning,3.0,Low,63.8,0,0
+SKILL_237,Web Development,0.0,Low,86.95,1,1
+SKILL_238,Teamwork,0.0,Low,69.95,0,1
+SKILL_239,Python,51.0,High,76.85,0,0
+SKILL_240,DevOps,9.0,Low,70.65,1,1
+SKILL_241,Algorithms,18.0,Medium,63.15,0,0
+SKILL_242,Data Structures,33.0,High,70.1,0,0
+SKILL_243,Cloud Computing,0.0,Low,87.55,1,1
+SKILL_244,Cybersecurity,0.0,Low,87.2,1,1
+SKILL_245,Python,51.0,High,66.55,0,0
+SKILL_246,Cybersecurity,5.0,Low,92.15,1,1
+SKILL_247,System Design,30.0,High,76.05,0,0
+SKILL_248,DevOps,4.0,Low,79.05,1,1
+SKILL_249,Algorithms,19.0,Medium,73.95,1,1
+SKILL_250,Database Management,36.0,High,79.6,0,0
+SKILL_251,Machine Learning,52.0,High,67.65,0,0
+SKILL_252,Deep Learning,40.0,High,69.7,0,0
+SKILL_253,Data Analytics,31.0,High,72.6,0,0
+SKILL_254,Git/GitHub,0.0,Low,85.3,1,1
+SKILL_255,Communication,0.0,Low,84.4,1,1
+SKILL_256,Machine Learning,0.0,Low,76.7,1,1
+SKILL_257,Communication,0.0,Low,86.2,1,1
+SKILL_258,Web Development,44.0,High,63.15,0,0
+SKILL_259,Deep Learning,28.0,High,57.2,0,0
+SKILL_260,Deep Learning,2.0,Low,75.8,1,1
+SKILL_261,Cloud Computing,17.0,Medium,78.75,1,1
+SKILL_262,Database Management,0.0,Low,78.95,1,1
+SKILL_263,Communication,34.0,High,87.1,0,0
+SKILL_264,Database Management,3.0,Low,70.9,1,1
+SKILL_265,SQL,51.0,High,75.9,0,0
+SKILL_266,Database Management,0.0,Low,79.1,1,1
+SKILL_267,Algorithms,11.0,Low,77.75,1,1
+SKILL_268,Cybersecurity,0.0,Low,70.1,1,1
+SKILL_269,Python,0.0,Low,86.35,1,1
+SKILL_270,Teamwork,48.0,High,71.6,0,0
+SKILL_271,Problem Solving,0.0,Low,72.3,1,1
+SKILL_272,Cloud Computing,0.0,Low,81.25,1,1
+SKILL_273,System Design,30.0,High,71.9,0,0
+SKILL_274,DevOps,0.0,Low,87.1,1,1
+SKILL_275,C++,0.0,Low,79.25,1,1
+SKILL_276,Algorithms,24.0,Medium,68.3,0,0
+SKILL_277,Cloud Computing,8.0,Low,75.35,1,1
+SKILL_278,Problem Solving,15.0,Medium,81.95,1,1
+SKILL_279,C++,17.0,Medium,68.55,0,0
+SKILL_280,Generative AI,0.0,Low,75.85,1,1
+SKILL_281,Database Management,0.0,Low,91.0,1,1
+SKILL_282,Communication,15.0,Medium,74.2,1,1
+SKILL_283,Java,22.0,Medium,77.75,1,1
+SKILL_284,DevOps,0.0,Low,79.8,1,1
+SKILL_285,Web Development,40.0,High,83.9,0,0
+SKILL_286,Cybersecurity,0.0,Low,68.15,0,0
+SKILL_287,Cybersecurity,15.0,Medium,92.65,1,1
+SKILL_288,System Design,12.0,Medium,68.9,0,0
+SKILL_289,DevOps,0.0,Low,89.55,1,1
+SKILL_290,Java,0.0,Low,62.75,0,0
+SKILL_291,Generative AI,0.0,Low,78.75,1,1
+SKILL_292,Cloud Computing,58.0,High,76.0,0,0
+SKILL_293,Web Development,30.0,High,73.4,0,0
+SKILL_294,Generative AI,40.0,High,62.8,0,0
+SKILL_295,SQL,0.0,Low,80.25,1,1
+SKILL_296,Cloud Computing,5.0,Low,98.7,1,1
+SKILL_297,Generative AI,53.0,High,77.35,0,0
+SKILL_298,Data Structures,28.0,High,71.7,0,0
+SKILL_299,Deep Learning,0.0,Low,75.25,1,1
+SKILL_300,SQL,9.0,Low,90.45,1,1
+SKILL_301,Java,0.0,Low,76.25,1,1
+SKILL_302,Cloud Computing,0.0,Low,72.1,1,1
+SKILL_303,C++,0.0,Low,75.95,1,1
+SKILL_304,SQL,40.0,High,78.75,0,0
+SKILL_305,Deep Learning,40.0,High,88.5,0,0
+SKILL_306,Data Analytics,0.0,Low,85.85,1,1
+SKILL_307,Web Development,0.0,Low,71.7,1,1
+SKILL_308,Data Analytics,0.0,Low,85.55,1,1
+SKILL_309,Git/GitHub,1.0,Low,83.6,1,1
+SKILL_310,Teamwork,9.0,Low,73.45,1,1
+SKILL_311,C++,0.0,Low,67.75,0,0
+SKILL_312,Generative AI,19.0,Medium,93.25,1,1
+SKILL_313,Algorithms,17.0,Medium,59.8,0,0
+SKILL_314,Data Analytics,4.0,Low,76.8,1,1
+SKILL_315,SQL,1.0,Low,71.25,1,1
+SKILL_316,Python,31.0,High,71.75,0,0
+SKILL_317,Communication,0.0,Low,70.7,1,1
+SKILL_318,Database Management,4.0,Low,82.65,1,1
+SKILL_319,C++,0.0,Low,78.1,1,1
+SKILL_320,Git/GitHub,12.0,Medium,71.85,1,1
+SKILL_321,Data Structures,14.0,Medium,79.2,1,1
+SKILL_322,Cybersecurity,0.0,Low,74.35,1,1
+SKILL_323,SQL,0.0,Low,58.05,0,0
+SKILL_324,System Design,1.0,Low,70.0,1,1
+SKILL_325,Generative AI,6.0,Low,95.0,1,1
+SKILL_326,Teamwork,0.0,Low,60.5,0,0
+SKILL_327,Teamwork,16.0,Medium,63.35,0,0
+SKILL_328,Communication,0.0,Low,83.3,1,1
+SKILL_329,Teamwork,0.0,Low,75.65,1,1
+SKILL_330,Machine Learning,0.0,Low,88.75,1,1
+SKILL_331,C++,35.0,High,69.7,0,0
+SKILL_332,Communication,40.0,High,76.8,0,0
+SKILL_333,Teamwork,9.0,Low,80.5,1,1
+SKILL_334,Communication,29.0,High,83.05,0,0
+SKILL_335,Machine Learning,20.0,Medium,60.65,0,0
+SKILL_336,Deep Learning,38.0,High,84.95,0,0
+SKILL_337,Java,37.0,High,77.0,0,0
+SKILL_338,Generative AI,52.0,High,70.4,0,0
+SKILL_339,Deep Learning,54.0,High,85.45,0,0
+SKILL_340,Cloud Computing,0.0,Low,71.25,1,1
+SKILL_341,DevOps,0.0,Low,81.35,1,1
+SKILL_342,Communication,6.0,Low,66.75,0,0
+SKILL_343,C++,0.0,Low,74.8,1,1
+SKILL_344,DevOps,19.0,Medium,77.0,1,1
+SKILL_345,Algorithms,0.0,Low,89.65,1,1
+SKILL_346,Machine Learning,0.0,Low,75.8,1,1
+SKILL_347,Cybersecurity,0.0,Low,87.7,1,1
+SKILL_348,Generative AI,53.0,High,72.95,0,0
+SKILL_349,System Design,0.0,Low,75.4,1,1
+SKILL_350,Cybersecurity,13.0,Medium,71.9,1,1
+SKILL_351,Data Structures,0.0,Low,69.75,0,0
+SKILL_352,Cybersecurity,0.0,Low,84.1,1,1
+SKILL_353,DevOps,2.0,Low,78.4,1,1
+SKILL_354,System Design,0.0,Low,87.2,1,1
+SKILL_355,Database Management,0.0,Low,66.25,0,0
+SKILL_356,Generative AI,26.0,High,72.05,0,0
+SKILL_357,Problem Solving,19.0,Medium,85.6,1,1
+SKILL_358,Git/GitHub,45.0,High,79.7,0,0
+SKILL_359,Java,0.0,Low,87.7,1,1
+SKILL_360,Generative AI,39.0,High,82.95,0,0
+SKILL_361,Teamwork,0.0,Low,82.3,1,1
+SKILL_362,Cybersecurity,23.0,Medium,88.8,1,1
+SKILL_363,Python,0.0,Low,74.9,1,1
+SKILL_364,Web Development,0.0,Low,73.9,1,1
+SKILL_365,System Design,8.0,Low,80.15,1,1
+SKILL_366,SQL,0.0,Low,84.85,1,1
+SKILL_367,Deep Learning,0.0,Low,72.2,1,1
+SKILL_368,Deep Learning,0.0,Low,79.05,1,1
+SKILL_369,Data Structures,0.0,Low,78.2,1,1
+SKILL_370,Teamwork,37.0,High,72.65,0,0
+SKILL_371,Database Management,28.0,High,70.2,0,0
+SKILL_372,Java,0.0,Low,88.05,1,1
+SKILL_373,Data Analytics,0.0,Low,92.2,1,1
+SKILL_374,Communication,48.0,High,70.2,0,0
+SKILL_375,Cybersecurity,7.0,Low,85.15,1,1
+SKILL_376,System Design,4.0,Low,81.95,1,1
+SKILL_377,Deep Learning,25.0,High,76.35,0,0
+SKILL_378,Data Analytics,0.0,Low,92.5,1,1
+SKILL_379,C++,0.0,Low,83.6,1,1
+SKILL_380,Cloud Computing,0.0,Low,88.2,1,1
+SKILL_381,DevOps,0.0,Low,73.2,1,1
+SKILL_382,Communication,0.0,Low,90.2,1,1
+SKILL_383,Generative AI,8.0,Low,92.85,1,1
+SKILL_384,Data Structures,48.0,High,78.65,0,0
+SKILL_385,Generative AI,0.0,Low,98.5,1,1
+SKILL_386,Data Structures,55.0,High,75.7,0,0
+SKILL_387,Cloud Computing,0.0,Low,88.9,1,1
+SKILL_388,Data Structures,0.0,Low,82.45,1,1
+SKILL_389,Database Management,0.0,Low,64.15,0,0
+SKILL_390,Git/GitHub,38.0,High,81.45,0,0
+SKILL_391,Teamwork,7.0,Low,78.45,1,1
+SKILL_392,SQL,45.0,High,74.7,0,0
+SKILL_393,Data Analytics,21.0,Medium,74.35,1,1
+SKILL_394,Algorithms,0.0,Low,90.8,1,1
+SKILL_395,Database Management,34.0,High,73.25,0,0
+SKILL_396,Web Development,0.0,Low,86.95,1,1
+SKILL_397,Data Structures,0.0,Low,66.0,0,0
+SKILL_398,Communication,23.0,Medium,71.55,1,1
+SKILL_399,Cloud Computing,0.0,Low,74.25,1,1
+SKILL_400,C++,56.0,High,63.4,0,0
+SKILL_401,Java,16.0,Medium,81.95,1,1
+SKILL_402,C++,5.0,Low,71.95,1,1
+SKILL_403,Cybersecurity,38.0,High,66.4,0,0
+SKILL_404,DevOps,53.0,High,72.75,0,0
+SKILL_405,Git/GitHub,25.0,High,79.15,0,0
+SKILL_406,Problem Solving,0.0,Low,78.1,1,1
+SKILL_407,Git/GitHub,0.0,Low,86.25,1,1
+SKILL_408,Problem Solving,0.0,Low,76.15,1,1
+SKILL_409,SQL,35.0,High,77.95,0,0
+SKILL_410,SQL,0.0,Low,81.75,1,1
+SKILL_411,DevOps,38.0,High,74.8,0,0
+SKILL_412,Java,0.0,Low,75.3,1,1
+SKILL_413,Cybersecurity,0.0,Low,77.2,1,1
+SKILL_414,DevOps,0.0,Low,70.25,1,1
+SKILL_415,Teamwork,0.0,Low,78.5,1,1
+SKILL_416,Python,48.0,High,83.55,0,0
+SKILL_417,Java,33.0,High,74.95,0,0
+SKILL_418,Java,31.0,High,88.35,0,0
+SKILL_419,Data Structures,11.0,Low,67.7,0,0
+SKILL_420,Problem Solving,0.0,Low,82.55,1,1
+SKILL_421,Database Management,0.0,Low,83.55,1,1
+SKILL_422,Communication,0.0,Low,85.75,1,1
+SKILL_423,Data Analytics,13.0,Medium,92.45,1,1
+SKILL_424,Java,0.0,Low,80.0,1,1
+SKILL_425,C++,31.0,High,74.6,0,0
+SKILL_426,Python,62.0,High,74.95,0,0
+SKILL_427,Database Management,0.0,Low,80.25,1,1
+SKILL_428,Data Analytics,2.0,Low,82.0,1,1
+SKILL_429,Git/GitHub,20.0,Medium,74.1,1,1
+SKILL_430,Algorithms,0.0,Low,92.4,1,1
+SKILL_431,Web Development,17.0,Medium,78.95,1,1
+SKILL_432,Generative AI,0.0,Low,90.9,1,1
+SKILL_433,Data Analytics,8.0,Low,83.8,1,1
+SKILL_434,Communication,6.0,Low,76.3,1,1
+SKILL_435,Algorithms,30.0,High,64.15,0,0
+SKILL_436,SQL,11.0,Low,59.65,0,0
+SKILL_437,Git/GitHub,0.0,Low,80.6,1,1
+SKILL_438,Machine Learning,3.0,Low,82.2,1,1
+SKILL_439,Machine Learning,0.0,Low,79.55,1,1
+SKILL_440,Data Structures,32.0,High,73.4,0,0
+SKILL_441,Web Development,0.0,Low,81.8,1,1
+SKILL_442,C++,41.0,High,76.9,0,0
+SKILL_443,DevOps,35.0,High,84.15,0,0
+SKILL_444,Data Analytics,0.0,Low,83.35,1,1
+SKILL_445,Communication,21.0,Medium,54.95,0,0
+SKILL_446,Deep Learning,8.0,Low,90.5,1,1
+SKILL_447,Machine Learning,0.0,Low,75.45,1,1
+SKILL_448,System Design,18.0,Medium,68.6,0,0
+SKILL_449,Cybersecurity,0.0,Low,93.35,1,1
+SKILL_450,Communication,36.0,High,62.65,0,0
+SKILL_451,Database Management,0.0,Low,78.15,1,1
+SKILL_452,Database Management,2.0,Low,91.15,1,1
+SKILL_453,Cloud Computing,55.0,High,89.9,0,0
+SKILL_454,Generative AI,0.0,Low,87.95,1,1
+SKILL_455,Problem Solving,30.0,High,92.75,0,0
+SKILL_456,Cybersecurity,0.0,Low,83.7,1,1
+SKILL_457,Data Analytics,0.0,Low,83.35,1,1
+SKILL_458,Deep Learning,2.0,Low,87.85,1,1
+SKILL_459,Cloud Computing,10.0,Low,69.7,0,0
+SKILL_460,C++,0.0,Low,68.5,0,0
+SKILL_461,Cybersecurity,0.0,Low,65.65,0,0
+SKILL_462,Python,0.0,Low,78.5,1,1
+SKILL_463,Cloud Computing,0.0,Low,73.2,1,1
+SKILL_464,Database Management,22.0,Medium,60.25,0,0
+SKILL_465,Database Management,43.0,High,67.65,0,0
+SKILL_466,Web Development,0.0,Low,79.8,1,1
+SKILL_467,Data Analytics,55.0,High,64.35,0,0
+SKILL_468,Cybersecurity,0.0,Low,97.1,1,1
+SKILL_469,C++,0.0,Low,80.5,1,1
+SKILL_470,Deep Learning,0.0,Low,75.6,1,1
+SKILL_471,Algorithms,0.0,Low,71.35,1,1
+SKILL_472,C++,32.0,High,90.05,0,0
+SKILL_473,Deep Learning,0.0,Low,79.8,1,1
+SKILL_474,Database Management,0.0,Low,78.75,1,1
+SKILL_475,Cloud Computing,0.0,Low,99.0,1,1
+SKILL_476,Teamwork,0.0,Low,76.15,1,1
+SKILL_477,Communication,49.0,High,80.0,0,0
+SKILL_478,Git/GitHub,24.0,Medium,77.2,1,1
+SKILL_479,System Design,0.0,Low,73.1,1,1
+SKILL_480,Cloud Computing,8.0,Low,78.85,1,1
+SKILL_481,Git/GitHub,0.0,Low,74.55,1,1
+SKILL_482,DevOps,19.0,Medium,92.85,1,1
+SKILL_483,Teamwork,11.0,Low,79.25,1,1
+SKILL_484,C++,54.0,High,76.7,0,0
+SKILL_485,Git/GitHub,55.0,High,81.25,0,0
+SKILL_486,Python,0.0,Low,87.15,1,1
+SKILL_487,Cybersecurity,14.0,Medium,65.75,0,0
+SKILL_488,Communication,15.0,Medium,84.55,1,1
+SKILL_489,Algorithms,0.0,Low,86.1,1,1
+SKILL_490,Problem Solving,0.0,Low,73.65,1,1
+SKILL_491,Web Development,24.0,Medium,71.35,1,1
+SKILL_492,Cloud Computing,0.0,Low,73.5,1,1
+SKILL_493,Database Management,13.0,Medium,75.55,1,1
+SKILL_494,Python,12.0,Medium,74.55,1,1
+SKILL_495,Machine Learning,60.0,High,67.3,0,0
+SKILL_496,Machine Learning,2.0,Low,78.35,1,1
+SKILL_497,Problem Solving,0.0,Low,91.95,1,1
+SKILL_498,Machine Learning,7.0,Low,84.4,1,1
+SKILL_499,Deep Learning,15.0,Medium,80.4,1,1
+SKILL_500,Deep Learning,0.0,Low,78.6,1,1
