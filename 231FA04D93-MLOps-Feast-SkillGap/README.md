@@ -1,7 +1,7 @@
 # 231FA04D93-MLOps-Feast-SkillGap
 
 ## Student Details
-- Name: B.Hemanth Sai Kumar
+- Name: P.Sai 
 - Register Number: 231FA04D93
 - Section: 9
 - Repository: `231FA04D93-MLOps-Feast-SkillGap`
